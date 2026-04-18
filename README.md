@@ -1,12 +1,10 @@
 # Hey, I'm Tiago 👋
 
-Frontend developer based in Vila Nova de Gaia, Portugal.
+Frontend developer based in Porto, Portugal.
 
 I came to frontend after years of feeling like something creative was missing. Drawing was everything when I was younger. I lost touch with it for a long time and found my way back through code. Turns out building things for the web scratches the same itch.
 
 I care about how things look as much as how they work. Design and code are the same conversation to me.
-
-Currently looking for my first frontend role where design and code matter equally.
 
 ## What I work with
 
@@ -21,6 +19,7 @@ Currently looking for my first frontend role where design and code matter equall
 - Completing a level V specialisation in Information Systems at ISLA Gaia
 - Working through the Meta Frontend Development certification on Coursera
 - Building things I once could only imagine
+- Looking for my first frontend role where design and code matter equally
 
 ## Projects
 
