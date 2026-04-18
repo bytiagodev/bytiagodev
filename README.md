@@ -2,9 +2,11 @@
 
 Frontend developer based in Vila Nova de Gaia, Portugal.
 
-I came to frontend after years of feeling like something creative was missing. Turns out it was this. I care about how things look as much as how they work, and I bring that into everything I build.
+I came to frontend after years of feeling like something creative was missing. Drawing was everything when I was younger. I lost touch with it for a long time and found my way back through code. Turns out building things for the web scratches the same itch.
 
----
+I care about how things look as much as how they work. Design and code are the same conversation to me.
+
+Currently looking for my first frontend role where design and code matter equally.
 
 ## What I work with
 
@@ -14,25 +16,19 @@ I came to frontend after years of feeling like something creative was missing. T
 ![React](https://img.shields.io/badge/React-E2B84E?style=flat&logoColor=121212&logo=react)
 ![Git](https://img.shields.io/badge/Git-E2B84E?style=flat&logoColor=121212&logo=git)
 
----
-
 ## Currently
 
 - Completing a level V specialisation in Information Systems at ISLA Gaia
 - Working through the Meta Frontend Development certification on Coursera
 - Building things I once could only imagine
 
----
-
 ## Projects
 
 | Project | What it is |
 |---|---|
+| [GitHub Profile Viewer](https://bytiagodev.github.io/github-profile-viewer/) | Every profile tells a story. Search any GitHub username and explore their repositories, top languages and activity through a custom built interface. |
+| [City Weather](https://bytiagodev.github.io/weather-app-js/) | Live weather dashboard using the Open-Meteo API with dynamic UI theming based on real time conditions. |
 | [Quiet Garden](https://bytiagodev.github.io/quiet-garden-landing-page/) | Botanical store built with advanced CSS. Watercolor aesthetics, blend modes and scroll animations. |
-| [City Weather](https://bytiagodev.github.io/weather-app-js/) | Live weather dashboard using the Open-Meteo API with dynamic UI theming. |
-| [Day Finder](https://bytiagodev.github.io/day-finder-js/) | Clean date utility built around JavaScript date logic. |
-
----
 
 ## Find me
 
