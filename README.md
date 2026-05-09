@@ -7,6 +7,11 @@
 >
 > I care about how things look as much as how they work. Design and code are the same conversation to me.
 
+###### Now
+## In the works
+
+Completing a level V specialisation in Information Systems at ISLA Gaia and the Meta Frontend Developer certification on Coursera. Looking for my first frontend role where design and code matter equally.
+
 ###### Stack
 ## The tools I trust
 
@@ -15,11 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=121212)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=121212)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-###### Now
-## In the works
-
-Completing a level V specialisation in Information Systems at ISLA Gaia and the Meta Frontend Developer certification on Coursera. Looking for my first frontend role where design and code matter equally.
 
 ###### Live
 ## Made Real
