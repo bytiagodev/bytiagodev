@@ -28,7 +28,7 @@ Completing a level V specialisation in Information Systems at ISLA Gaia and the 
 *Every profile tells a story.*
 Search any GitHub username and explore their repositories, top languages and activity through a custom built interface.
 
-**[City Weather](https://bytiagodev.github.io/weather-app-js/)**
+**[City Weather](https://bytiagodev.github.io/city-weather/)**
 *The whole interface changes with the weather.*
 Live weather using the Open-Meteo API with dynamic UI theming based on real time conditions.
 
