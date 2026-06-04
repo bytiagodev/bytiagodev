@@ -2,7 +2,6 @@
 
 ###### About
 ## The way back
-
 > I came to frontend after years of feeling like something creative was missing. Drawing was everything when I was younger. I lost touch with it for a long time and found my way back through code. Turns out building things for the web scratches the same itch.
 >
 > I care about how things look as much as how they work. Design and code are the same conversation to me.
@@ -14,7 +13,6 @@ Completing a level V specialisation in Information Systems at ISLA Gaia and the 
 
 ###### Stack
 ## The tools I trust
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=121212)
@@ -24,23 +22,25 @@ Completing a level V specialisation in Information Systems at ISLA Gaia and the 
 ###### Live
 ## Made Real
 
+**[Dusty Grooves](https://bytiagodev.github.io/dusty-grooves)**
+*A fictional vinyl shop frozen in 1983. Big Tony reacts to everything you do.*
+React app with a character-driven state machine, Last.fm API for music metadata, Cloudflare Workers proxying Invidious for playback, and Framer Motion throughout.
+
 **[GitHub Profile Viewer](https://bytiagodev.github.io/github-profile-viewer/)**
 *Every profile tells a story.*
 Search any GitHub username and explore their repositories, top languages and activity through a custom built interface.
-
-**[City Weather](https://bytiagodev.github.io/city-weather/)**
-*The whole interface changes with the weather.*
-Live weather using the Open-Meteo API with dynamic UI theming based on real time conditions.
 
 **[Quiet Garden](https://bytiagodev.github.io/quiet-garden-landing-page/)**
 *Built without a single photograph.*
 Botanical store made with advanced CSS. Watercolor aesthetics, blend modes and scroll animations.
 
+**[City Weather](https://bytiagodev.github.io/city-weather/)**
+*The whole interface changes with the weather.*
+Live weather using the Open-Meteo API with dynamic UI theming based on real time conditions.
+
 ###### Elsewhere
 ## Around the web
-
 The full story lives at [bytiago.com](https://bytiago.com). You can also find me on [LinkedIn](https://linkedin.com/in/bytiago) and [GitHub](https://github.com/bytiagodev).
 
 ---
-
 *Still drawing, just with different tools now.*
