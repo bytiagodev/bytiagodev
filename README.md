@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=2000&pause=300&color=FF6B6B&multiline=true&repeat=false&center=true&vCenter=true&width=900&height=130&lines=Hey+there%2C+I'm+Tiago.+Welcome+%F0%9F%91%8B;Frontend+developer+with+a+soft+spot+for+good+design;Finally+building+the+things+I+once+could+only+imagine+%F0%9F%8E%A8)](https://bytiago.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=2000&pause=300&color=FF6B6B&multiline=true&repeat=false&center=true&vCenter=true&width=900&height=130&lines=Hey+there%2C+I'm+Tiago.+Welcome.;Frontend+developer+with+a+soft+spot+for+good+design.;Finally+building+the+things+I+once+could+only+imagine.+%F0%9F%8E%A8)](https://bytiago.com)
 
 ###### About
 ## The way back
@@ -9,14 +9,15 @@
 ###### Now
 ## In the works
 
-Completing a level V specialisation in Information Systems at ISLA Gaia and the Meta Frontend Developer certification on Coursera. Looking for my first frontend role where design and code matter equally.
+Currently completing a Level V specialisation in Information Systems at ISLA Gaia and the Meta Front-End Developer Professional Certificate.
 
 ###### Stack
 ## The tools I trust
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=121212)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=121212)
+![React](https://img.shields.io/badge/React-121212?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ###### Live
@@ -26,6 +27,10 @@ Completing a level V specialisation in Information Systems at ISLA Gaia and the 
 *A fictional vinyl shop frozen in 1983. Big Tony reacts to everything you do.*
 React app with a character-driven state machine, Last.fm API for music metadata, Cloudflare Workers proxying Invidious for playback, and Framer Motion throughout.
 
+**[F1 Atlas](https://bytiagodev.github.io/f1-atlas/)**
+*Every season. Every race. Every driver.*
+Browse Formula 1 data from 1950 to today. Race calendars, full results with qualifying, championship standings and driver profiles, all from the Jolpica API.
+
 **[GitHub Profile Viewer](https://bytiagodev.github.io/github-profile-viewer/)**
 *Every profile tells a story.*
 Search any GitHub username and explore their repositories, top languages and activity through a custom built interface.
@@ -33,10 +38,6 @@ Search any GitHub username and explore their repositories, top languages and act
 **[Quiet Garden](https://bytiagodev.github.io/quiet-garden-landing-page/)**
 *Built without a single photograph.*
 Botanical store made with advanced CSS. Watercolor aesthetics, blend modes and scroll animations.
-
-**[City Weather](https://bytiagodev.github.io/city-weather/)**
-*The whole interface changes with the weather.*
-Live weather using the Open-Meteo API with dynamic UI theming based on real time conditions.
 
 ###### Elsewhere
 ## Around the web
