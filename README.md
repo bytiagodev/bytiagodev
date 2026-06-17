@@ -9,7 +9,7 @@
 ###### Now
 ## In the works
 
-Currently completing a Level V specialisation in Information Systems at ISLA Gaia and the Meta Front-End Developer Professional Certificate.
+Currently completing a Level V specialisation in Information Systems at ISLA Gaia, alongside the Meta Front-End Developer Professional Certificate.
 
 ###### Stack
 ## The tools I trust
@@ -24,20 +24,29 @@ Currently completing a Level V specialisation in Information Systems at ISLA Gai
 ## Made Real
 
 **[Dusty Grooves](https://bytiagodev.github.io/dusty-grooves)**
-*A fictional vinyl shop frozen in 1983. Big Tony reacts to everything you do.*
-React app with a character-driven state machine, Last.fm API for music metadata, Cloudflare Workers proxying Invidious for playback, and Framer Motion throughout.
+*A fictional vinyl shop frozen in 1983.*
+
+React app with a character-driven state machine, Last.fm API for music metadata, Cloudflare Workers proxying Invidious for playback, and Framer Motion woven throughout.
 
 **[F1 Atlas](https://bytiagodev.github.io/f1-atlas/)**
 *Every season. Every race. Every driver.*
-Browse Formula 1 data from 1950 to today. Race calendars, full results with qualifying, championship standings and driver profiles, all from the Jolpica API.
+
+Browse Formula 1 data from 1950 to the present. Race calendars, full results with qualifying, championship standings and driver profiles, all from the Jolpica API.
 
 **[GitHub Profile Viewer](https://bytiagodev.github.io/github-profile-viewer/)**
 *Every profile tells a story.*
-Search any GitHub username and explore their repositories, top languages and activity through a custom built interface.
+
+Search any GitHub username and explore repositories, top languages and activity through a custom-built interface.
 
 **[Quiet Garden](https://bytiagodev.github.io/quiet-garden-landing-page/)**
 *Built without a single photograph.*
-Botanical store made with advanced CSS. Watercolor aesthetics, blend modes and scroll animations.
+
+Botanical storefront built with advanced CSS. Watercolor aesthetics, blend modes and scroll animations.
+
+**[Bruce Investigates](https://bytiagodev.github.io/bruce-investigates/)**
+*A pug, a missing treat, and a very serious investigation.*
+
+A children's story about a pug detective, illustrated across 13 spreads in English and Portuguese. Page-flip navigation and a page-turn sound built from white noise.
 
 ###### Elsewhere
 ## Around the web
