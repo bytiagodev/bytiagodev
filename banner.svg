@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 200" width="260" height="200" role="img" aria-label="A small square face that blinks and looks sideways">
+  <title>A small square face that blinks and looks sideways</title>
+  <style>
+    .eyes { animation: glance 9s ease-in-out infinite; }
+    .eye {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: blink 9s linear infinite;
+    }
+    .box {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: breathe 9s ease-in-out infinite;
+    }
+
+    @keyframes glance {
+      0%, 33%   { transform: translateX(0); }
+      38%, 57%  { transform: translateX(10px); }
+      63%, 100% { transform: translateX(0); }
+    }
+
+    @keyframes blink {
+      0%, 26.5%          { transform: scaleY(1); }
+      27.6%              { transform: scaleY(0.1); }
+      28.7%, 66%         { transform: scaleY(1); }
+      67.1%              { transform: scaleY(0.1); }
+      68.2%, 100%        { transform: scaleY(1); }
+    }
+
+    @keyframes breathe {
+      0%, 100% { transform: scale(1); }
+      50%      { transform: scale(1.012); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .eyes, .eye, .box { animation: none; }
+    }
+  </style>
+
+  <rect class="box" x="40" y="40" width="180" height="120" rx="30"
+        fill="none" stroke="#D9553F" stroke-width="5"/>
+
+  <g class="eyes">
+    <g transform="translate(95 92)">
+      <g class="eye">
+        <rect x="-14.0" y="-10.0" width="28" height="20" rx="10.0" fill="#D9553F"/>
+      </g>
+    </g>
+    <g transform="translate(165 92)">
+      <g class="eye">
+        <rect x="-14.0" y="-10.0" width="28" height="20" rx="10.0" fill="#D9553F"/>
+      </g>
+    </g>
+  </g>
+
+  <path d="M104 128 L 156 128" stroke="#D9553F" stroke-width="5"
+        stroke-linecap="round" fill="none"/>
+</svg>
