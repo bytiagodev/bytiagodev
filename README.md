@@ -1,4 +1,4 @@
-## Hi, I'm Tiago.
+### Hi, I'm Tiago.
 
 <img src="banner.svg" alt="A small face looking at two rows of labels. Languages: HTML, CSS, JavaScript, TypeScript. Tools: React, Next.js, Tailwind, Supabase, Git" width="840">
 
