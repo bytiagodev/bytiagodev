@@ -1,13 +1,11 @@
 ### Hi, I'm Tiago.
 
-<img src="banner.svg" alt="A small face looking at two rows of labels. Languages: HTML, CSS, JavaScript, TypeScript. Tools: React, Next.js, Tailwind, Supabase, Git" width="840">
+I make things for the browser. Sometimes that means exploring Formula 1 results. Sometimes it means scrolling to the bottom of the ocean or making an illustrated book about my pug.
 
-The project I work on most is not on this profile. It is a membership,
-booking and payments platform for a combat sports academy in Porto, in
-production and closed source. There is a write-up at
-[bytiago.com](https://bytiago.com).
+Most of what you'll find here is personal work: ideas I wanted to try, or my take on something I enjoyed using. I've also worked on a platform in use at Academia Combate de Gaia. That code stays private.
 
-Pinned below is what I build when I am not on that.
+<img src="banner.svg" alt="A small animated face beside the languages and tools I use: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Supabase and Git." width="840">
 
-Open to frontend roles and to collaborating on something good. Reach me at
-[tiago@bytiago.com](mailto:tiago@bytiago.com).
+Open to frontend roles and to collaborating on something good.
+
+[Portfolio](https://bytiago.com) · [Email](mailto:tiago@bytiago.com)
