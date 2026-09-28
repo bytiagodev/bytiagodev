@@ -12,20 +12,23 @@
     @keyframes blink  { 0%,11.5%{transform:scaleY(1)} 12.6%{transform:scaleY(0.1)} 13.7%,59%{transform:scaleY(1)} 60.1%{transform:scaleY(0.1)} 61.2%,100%{transform:scaleY(1)} }
     @keyframes breathe{ 0%,100%{transform:scale(1)} 50%{transform:scale(1.012)} }
     @media (prefers-reduced-motion: reduce) { .face,.box,.eyes,.eye { animation: none } }
-    @media (prefers-color-scheme: dark) { .pt { fill: #d1d1d8; } .lb { fill: #a1a1aa; } }
+    .ink { fill: #3f3f46; }
+    .ink-line { stroke: #3f3f46; }
+    .dot { font-size: 16px; }
+    @media (prefers-color-scheme: dark) { .pt { fill: #d1d1d8; } .lb { fill: #a1a1aa; } .ink { fill: #e4e4e7; } .ink-line { stroke: #e4e4e7; } }
   </style>
 
   <g class="face">
-    <rect class="box" x="25" y="35" width="145" height="98" rx="24" fill="none" stroke="#797979" stroke-width="4.5"/>
+    <rect class="box" x="25" y="35" width="145" height="98" rx="24" fill="none" stroke="#D9553F" stroke-width="4.5"/>
     <g class="eyes">
-      <g transform="translate(69.5 76)"><g class="eye"><rect x="-11" y="-7.5" width="22" height="15" rx="7.5" fill="#797979"/></g></g>
-      <g transform="translate(125.5 76)"><g class="eye"><rect x="-11" y="-7.5" width="22" height="15" rx="7.5" fill="#797979"/></g></g>
+      <g transform="translate(69.5 76)"><g class="eye"><rect x="-11" y="-7.5" width="22" height="15" rx="7.5" class="ink"/></g></g>
+      <g transform="translate(125.5 76)"><g class="eye"><rect x="-11" y="-7.5" width="22" height="15" rx="7.5" class="ink"/></g></g>
     </g>
-    <path d="M77.5 106 Q 97.5 110 117.5 106" stroke="#797979" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+    <path d="M77.5 106 Q 97.5 110 117.5 106" class="ink-line" stroke-width="4.5" stroke-linecap="round" fill="none"/>
   </g>
 
   <text class="lb" x="245" y="48">LANGUAGES</text>
-  <text class="pt" x="245" y="74">HTML · CSS · JavaScript · TypeScript</text>
+  <text class="pt" x="245" y="74"><tspan class="dot" fill="#e34c26" dy="-1">●</tspan><tspan dx="6" dy="1">HTML</tspan><tspan class="dot" fill="#663399" dx="20" dy="-1">●</tspan><tspan dx="6" dy="1">CSS</tspan><tspan class="dot" fill="#f1e05a" dx="20" dy="-1">●</tspan><tspan dx="6" dy="1">JavaScript</tspan><tspan class="dot" fill="#3178c6" dx="20" dy="-1">●</tspan><tspan dx="6" dy="1">TypeScript</tspan></text>
   <text class="lb" x="245" y="108">TOOLS</text>
-  <text class="pt" x="245" y="134">React · Next.js · Tailwind · Supabase · Git</text>
+  <text class="pt" x="245" y="134"><tspan class="dot" fill="#D9553F" dy="-1">○</tspan><tspan dx="6" dy="1">React</tspan><tspan class="dot" fill="#D9553F" dx="20" dy="-1">○</tspan><tspan dx="6" dy="1">Next.js</tspan><tspan class="dot" fill="#D9553F" dx="20" dy="-1">○</tspan><tspan dx="6" dy="1">Tailwind</tspan><tspan class="dot" fill="#D9553F" dx="20" dy="-1">○</tspan><tspan dx="6" dy="1">Supabase</tspan><tspan class="dot" fill="#D9553F" dx="20" dy="-1">○</tspan><tspan dx="6" dy="1">Git</tspan></text>
 </svg>
