@@ -6,6 +6,6 @@ Alongside it, a few personal projects: a fictional skate shop and an illustrated
 
 **Stack:** HTML, CSS, JavaScript, React, Next.js, Tailwind, Supabase, Git
 
-Open to frontend roles in the Porto area, on-site or hybrid, and to remote roles.
+Open to frontend roles: on-site or hybrid in the Porto area, or fully remote.
 
 [Portfolio](https://bytiago.com/en/) · [Email](mailto:tiago@bytiago.com)
