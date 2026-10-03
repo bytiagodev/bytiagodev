@@ -4,7 +4,7 @@ I build for the browser with React and JavaScript. My main work is the platform 
 
 Alongside it, a few personal projects: a fictional skate shop and an illustrated book about my pug.
 
-<img src="stack.svg" alt="Languages: HTML, CSS and JavaScript. Tools: React, Next.js, Tailwind, Supabase and Git." width="540">
+**Stack:** HTML, CSS, JavaScript, React, Next.js, Tailwind, Supabase, Git
 
 Open to frontend roles in the Porto area.
 
