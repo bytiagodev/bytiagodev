@@ -4,7 +4,7 @@ I build for the browser with React and JavaScript. My main work is the platform 
 
 Alongside it, a few personal projects: a fictional skate shop and an illustrated book about my pug.
 
-<img src="profile-banner-3.svg" alt="A small animated face beside the languages and tools I use: HTML, CSS, JavaScript, React, Next.js, Tailwind, Supabase and Git." width="840">
+<img src="stack.svg" alt="Languages: HTML, CSS and JavaScript. Tools: React, Next.js, Tailwind, Supabase and Git." width="540">
 
 Open to frontend roles in the Porto area.
 
