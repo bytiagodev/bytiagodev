@@ -4,6 +4,6 @@ My main work is the platform that runs Academia Combate de Gaia, a combat sports
 
 **Stack:** HTML, CSS, JavaScript, React, Next.js, Tailwind, Supabase, Git
 
-Open to frontend roles: on-site or hybrid around Porto, or remote.
+Open to frontend roles, remote or around Porto.
 
 [Portfolio](https://bytiago.com/en/) · [Email](mailto:tiago@bytiago.com)
